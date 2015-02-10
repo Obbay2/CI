@@ -1,2 +1,2 @@
 # CI-TESTING
-CI testbed for world domination 
+CI  test bed for world domination 
